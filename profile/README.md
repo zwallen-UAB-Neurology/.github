@@ -6,4 +6,4 @@
 
 ### For more information about the Payami Lab and research outputs: https://sites.uab.edu/payamilab/
 
-Link to personal GitHub profile: https://github.com/zwallen
+### Link to personal GitHub profile: https://github.com/zwallen
