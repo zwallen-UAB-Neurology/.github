@@ -5,3 +5,5 @@
 ### For more information about CNET: https://www.uab.edu/medicine/cnet/
 
 ### For more information about the Payami Lab and research outputs: https://sites.uab.edu/payamilab/
+
+Link to personal GitHub profile: https://github.com/zwallen
